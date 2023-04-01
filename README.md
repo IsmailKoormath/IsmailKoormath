@@ -10,13 +10,13 @@ reach me **ismailkoormath037@gmail.com**
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" padding="10px">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
       width="40"
-      margin="50px"
+      margin="10"
       height="40"
     />
   </a>
