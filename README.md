@@ -25,7 +25,7 @@ reach me **ismailkoormath037@gmail.com**
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
       alt="express"
       width="40"
-      margin="10"
+      style="margin: 10px;"
       height="40"
     />
   </a>
