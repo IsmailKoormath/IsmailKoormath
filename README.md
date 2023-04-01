@@ -21,7 +21,7 @@ reach me **ismailkoormath037@gmail.com**
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
       width="40"
-      margin="10px"
+      margin="50px"
       height="40"
     />
   </a>
