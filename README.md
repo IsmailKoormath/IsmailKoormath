@@ -34,10 +34,17 @@
     <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma,git,github,materialui,mongodb,visualstudio,redux,firebase,nodejs" />
   </a>
 </p>
-<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>(https://www.linkedin.com/in/ismail-k-6858a3263/)
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>(mailto:ismailkoormath037@gmail.com)
+# Get in Touch
 
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>(https://github.com/IsmailKoormath)
+
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.instagram.com/mishab_0p/)
+
+
+[<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/mohammed-mishab-p-032939257/)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23/>](mailto:mishabp9633git@gmail.com)
+
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23/>](https://github.com/mishabp9633)
+
 
 <p>
   <img
