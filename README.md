@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ismail k</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=178D9F&width=435&lines=This+is+Ismail+K+;Thank+you+for+stopping+by+%F0%9F%91%8B">
+  </a>
+</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
