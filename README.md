@@ -152,7 +152,13 @@ reach me **ismailkoormath037@gmail.com**
 <img alt="GitHub Actions" src="https://img.shields.io/badge/githubactions-%232671E5.svg?&style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />  
 <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=red" />  <br>
+<p align="start">
+  <a href="#!">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma,git,github,materialui,mongodb,visualstudio,redux,firebase,nodejs" />
+  </a>
+</p>
 <p>
+  
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailkoormath&show_icons=true&locale=en&layout=compact"
