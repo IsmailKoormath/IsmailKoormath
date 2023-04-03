@@ -36,7 +36,12 @@
     <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,figma,git,github,materialui,mongodb,visualstudio,redux,firebase,nodejs" />
   </a>
 </p>
-
+<p>
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ismailkoormath&show_icons=true&locale=en&layout=compact"
+    alt="ismailkoormath"
+  />
 <p>
   &nbsp;<img
     align="center"
