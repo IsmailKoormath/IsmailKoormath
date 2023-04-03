@@ -37,7 +37,7 @@
 # Get in Touch
 
 
-[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.instagram.com/mishab_0p/)
+[<img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.instagram.com/ismail_koormath/)
 
 
 [<img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" height=23/>](https://www.linkedin.com/in/ismail-k-6858a3263/)
