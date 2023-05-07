@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **express**
 -   💬 Ask me about **react** 
--    📫 How toreach me **ismailkoormath037@gmail.com**
+-    📫 How to reach me **ismailkoormath037@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
