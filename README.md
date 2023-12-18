@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Next.js**
 -   💬 Ask me about **react** 
 -    📫 How to reach me **ismailkoormath037@gmail.com**
 
