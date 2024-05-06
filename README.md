@@ -3,11 +3,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=178D9F&width=435&lines=This+is+Ismail+K">
   </a>
 </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 
 - 🌱 I’m currently learning **Next.js**
--   💬 Ask me about **react** 
+-   💬 Ask me about **web development** 
 -    📫 How to reach me **ismailkoormath037@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
